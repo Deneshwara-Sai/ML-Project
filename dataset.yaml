@@ -1,0 +1,10 @@
+train: /Users/denesh/Desktop/IIT-Chicago/Sem-2/ML/IIT-CS584-ML/ML/dataset/train/images
+val: /Users/denesh/Desktop/IIT-Chicago/Sem-2/ML/IIT-CS584-ML/ML/dataset/test/images
+test: /Users/denesh/Desktop/IIT-Chicago/Sem-2/ML/IIT-CS584-ML/ML/dataset/test/images
+
+# train: /content/gdrive/My Drive/ML/dataset/train/images
+# val: /content/gdrive/My Drive/ML/dataset/test/images
+# test: /content/gdrive/My Drive/ML/dataset/test/images
+
+names: 
+  0: license-plate
